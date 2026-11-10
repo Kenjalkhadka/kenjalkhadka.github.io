@@ -1,2 +1,3 @@
 # kenjalkhadka.github.io
-Mechanical Engineering Portfolio | CAD Design, Aerospace, Propulsion, and Engineering Projects
+Mechanical Engineering Portfolio 
+Propulsion Team @ Cincinnati Aerospace Society | Rocketry CLub| CAD Design|
